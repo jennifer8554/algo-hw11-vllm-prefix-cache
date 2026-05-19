@@ -1,0 +1,7 @@
+{
+    "model": "facebook/opt-125m",
+    "n_prompts": 20,
+    "throughput_req_per_sec": 17.04,
+    "throughput_tok_per_sec": 102.23,
+    "elapsed_sec": 58.69
+}
